@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 The long dong from the man rang across the land
+=======
+The long dong from the woman rang across the land
+>>>>>>> 85b1ed00b3853a53b4da34b12e105906b092bd3c
 but the longer dong of the dinner bell rattled my soul
