@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-you are what you eat, which makes mason herbs and cheese, but it makes aaron blackyou are what you eat, which makes mason herbs and cheese, but it makes aaron black
 you are what you eat, which makes mason herbs and cheese, but it makes aaron black
-=======
-you are what you eat, which makes mason herbs and cheese, but it makes aaron black
->>>>>>> parent of 0aae89c... Merge branch 'master' of https://github.com/MrMayComputerScience/practice-git-mcholy
-=======
-you are what you eat, which makes mason herbs and cheese, but it makes aaron black
-=======
-you are what you eat, which makes mason herbs and cheese, but it makes aaron asian
->>>>>>> 0b6cc5598da9056b274535eee0a27f8aa0561fe6
->>>>>>> 5dafb95f5021d24b8a77fc1a9389ce326f8a039c
-=======
-you are what you eat, which makes mason herbs and cheese
->>>>>>> parent of ad688c8... Changed mysilfe
