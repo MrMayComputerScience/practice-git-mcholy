@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-you are what you eat, which makes mason herbs and cheese, but it makes aaron purple
-=======
-you are what you eat, which makes mason herbs and cheese, but it makes aaron green
->>>>>>> daaa23fd54f0039d5274ddf226ebf62712b70fdd
+you are what you eat, which makes mason herbs and cheese, but it makes aaron black
